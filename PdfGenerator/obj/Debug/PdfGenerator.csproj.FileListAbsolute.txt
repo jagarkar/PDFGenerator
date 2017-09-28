@@ -1,0 +1,8 @@
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.exe
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.pdb
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\bin\Debug\PdfGenerator.exe
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\bin\Debug\PdfGenerator.pdb
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csprojResolveAssemblyReference.cache
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.Form1.resources
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.Properties.Resources.resources
+C:\code\PdfGenCSpackage\PdfGenerator_CS\PdfGenerator_CS\PdfGenerator\obj\Debug\PdfGenerator.csproj.GenerateResource.Cache
